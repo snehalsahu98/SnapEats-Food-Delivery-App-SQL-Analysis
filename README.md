@@ -120,4 +120,3 @@ Based on the analysis, the following actions are suggested:
 
 ---
 
-Would you like me to make a **matching Power BI version** (like “Sales Performance Analysis”) for SnapEats next — describing its visuals and metrics for GitHub consistency?
