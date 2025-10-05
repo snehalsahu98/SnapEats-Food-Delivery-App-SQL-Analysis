@@ -28,7 +28,7 @@ Insights from the analysis aim to support **data-driven decision-making** for im
 
 ## Data Source
 
-
+<img width="566" height="367" alt="Image" src="https://github.com/user-attachments/assets/8cfedfbb-b618-4710-bb77-77cd3ad9f7d1" />
 
 **SQL Dataset:**
 The project uses a relational SQL database comprising the following tables:
