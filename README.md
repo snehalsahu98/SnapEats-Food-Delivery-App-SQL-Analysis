@@ -2,17 +2,16 @@
 
 ---
 
-## Table of Contents
-
-* Project Overview
-* Data Source
-* Tools
-* Data Cleaning
-* Exploratory Data Analysis
-* Results
-* Recommendations
-* Limitations
-* References
+## **Table of Contents**
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ---
 
