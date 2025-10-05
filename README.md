@@ -18,7 +18,7 @@
 
 ## Project Overview
 
-*image placeholder*
+<img width="1536" height="978" alt="Image" src="https://github.com/user-attachments/assets/d66e5d3a-d878-43de-84d8-2054fcb91efb" />
 
 The purpose of this analysis is to evaluate the operational and business performance of **SnapEats**, a food delivery platform.
 The project focuses on analyzing key metrics related to **customer behavior, restaurant performance, rider efficiency, and order trends** using SQL.
