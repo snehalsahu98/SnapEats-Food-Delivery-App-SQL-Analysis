@@ -18,7 +18,7 @@
 ## Project Overview
 
 <img width="1536" height="978" alt="Image" src="https://github.com/user-attachments/assets/d66e5d3a-d878-43de-84d8-2054fcb91efb" />
-<img src="https://github.com/user-attachments/assets/8cfedfbb-b618-4710-bb77-77cd3ad9f7d1" alt="Database Schema" width="100%">
+
 
 The purpose of this analysis is to evaluate the operational and business performance of **SnapEats**, a food delivery platform.
 The project focuses on analyzing key metrics related to **customer behavior, restaurant performance, rider efficiency, and order trends** using SQL.
@@ -28,7 +28,7 @@ Insights from the analysis aim to support **data-driven decision-making** for im
 
 ## Data Source
 
-<img width="566" height="367" alt="Image" src="https://github.com/user-attachments/assets/8cfedfbb-b618-4710-bb77-77cd3ad9f7d1" />
+<img src="https://github.com/user-attachments/assets/8cfedfbb-b618-4710-bb77-77cd3ad9f7d1" alt="Database Schema" width="100%">
 
 **SQL Dataset:**
 The project uses a relational SQL database comprising the following tables:
