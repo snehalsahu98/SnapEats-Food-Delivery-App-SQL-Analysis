@@ -28,6 +28,8 @@ Insights from the analysis aim to support **data-driven decision-making** for im
 
 ## Data Source
 
+
+
 **SQL Dataset:**
 The project uses a relational SQL database comprising the following tables:
 
@@ -58,9 +60,7 @@ Data cleaning and preparation steps included:
 
 * Checking for and handling **NULL values** in key tables.
 * **Removing incomplete or invalid records** from customer and order datasets.
-* Ensuring **foreign key relationships** were properly maintained.
 * Formatting **date and time fields** for accurate temporal analysis.
-* Validating **numeric values** (e.g., order amounts, delivery times) for consistency.
 
 ---
 
